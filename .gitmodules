@@ -1,0 +1,3 @@
+[submodule "KiCAD-AZDelivery"]
+	path = KiCAD-AZDelivery
+	url = https://github.com/nkappler/KiCAD-AZDelivery.git
