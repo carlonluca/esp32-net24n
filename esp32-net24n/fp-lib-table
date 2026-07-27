@@ -1,0 +1,8 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "AZDelivery") (type "KiCad") (uri "/home/luca/projects/open/esp32-net24n/KiCAD-AZDelivery/AZDelivery.pretty") (options "") (descr ""))
+	(lib (name "KiCAD-AZDelivery") (type "KiCad") (uri "/home/luca/projects/open/esp32-net24n/KiCAD-AZDelivery.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "esp32-net24n") (type "KiCad") (uri "/home/luca/projects/open/esp32-net24n/esp32-net24n.pretty") (options "") (descr ""))
+	(lib (name "AZDelivery") (type "KiCad") (uri "/home/luca/projects/open/esp32-net24n/KiCAD-AZDelivery/AZDelivery.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "AZDelivery") (type "KiCad") (uri "/home/luca/projects/open/esp32-net24n/KiCAD-AZDelivery/AZDelivery.kicad_sym") (options "") (descr ""))
+)
